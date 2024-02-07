@@ -2,4 +2,21 @@ root = true
 
 [*]
 indent_style = space
+
+[*{.yaml,.yml}]
+indent_size = 2
+
+[*.{json,js,jsx,ts,tsx}]
+indent_size = 2
+
+[*.{html,xml}]
+indent_size = 2
+
+[*.{css,scss,sass}]
+indent_size = 2
+
+[*.{md,markdown}]
+indent_size = 2
+
+[*.py]
 indent_size = 4
