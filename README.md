@@ -10,4 +10,20 @@
 - venv
 - barcode
 - pillow
-- pre-commit
+- pre-commit (git hook)
+- Cerberus (validotor)
+- pytest
+
+## Useful commands
+
+```
+. .venv/bin/activate
+
+pip3 install <SOMETHING>
+
+python3 run.py
+
+ pip3 freeze > requirements.tx
+ 
+pytest
+```

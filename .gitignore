@@ -3,3 +3,4 @@
 .idea
 .vscode
 /*.png
+.pytest_cache
